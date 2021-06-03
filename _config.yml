@@ -21,7 +21,7 @@
 title: Robust Learning for Perception-Based Autonomy
 email: perception.based.autonomy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Website used for dissemination of research and results relating to NSF Award CPS-2038873.
+  [NSF Award CPS-2038873 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038873]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://perception-based-autonomy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
