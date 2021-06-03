@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Robust Learning for Perception-Based Autonomous Systems"
 ---
 
